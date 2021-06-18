@@ -111,8 +111,9 @@ Go back to Todo directory and run the following command.
     
 ![To-do App](todos.PNG)
 
-Credit:
+__Credit:__
 
-link  darey.io
+[darey.io](https://darey.io)
+
 
 
