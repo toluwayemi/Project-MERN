@@ -256,6 +256,8 @@ We need to install some dependencies like `concurrently` and `nodemon`.
 Go back to Todo directory and run the following command.
 
         npm run dev
+    
+![To-do App](todos.PNG)
 
 
 
